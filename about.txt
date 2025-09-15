@@ -1,0 +1,3 @@
+krupa
+bsc-cs1
+GitHub is a web-based platform built around Git, a powerful version control system. 
