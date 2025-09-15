@@ -1,1 +1,5 @@
 student demo
+krupa
+bsc-cs-1
+GitHub is a web-based platform that provides hosting for Git repositories and offers a suite of tools for version control and collaborative software development. 
+
